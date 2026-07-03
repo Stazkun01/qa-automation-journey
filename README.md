@@ -18,3 +18,6 @@ Automated login tests built with Python, Playwright and pytest.
 pip install playwright pytest pytest-html
 python -m playwright install
 python -m pytest test_all.py -v --html=report.html
+
+## Test Report
+![Test Report](reportpic.png)
